@@ -47,7 +47,7 @@
 <body>
 
 <?php
-    $key = "3e206413f06d522942919b27f67ccad1d";
+    $key = "token";
     $url = "https://api.corona-19.kr/korea/?serviceKey=".$key; // json 결과
     $is_post = false;
     $ch = curl_init(); 	//curl 초기화

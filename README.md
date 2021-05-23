@@ -10,4 +10,4 @@
 - [코로나19 API](https://api.corona-19.kr)를 사용했으나, 이 코드에서는 다른 API는 작동이 안될 수도 있습니다.
 
 ## 스크린샷
-<a href="https://ibb.co/fk8J2Y6"><img src="https://i.ibb.co/PcTkNZX/screenshot.jpg" alt="screenshot" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/DC7hLVf/2021-05-23-152108.png" alt="2021-05-23-152108" border="0"></a>

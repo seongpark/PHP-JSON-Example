@@ -11,6 +11,3 @@
 
 ## 스크린샷
 <a href="https://ibb.co/fk8J2Y6"><img src="https://i.ibb.co/PcTkNZX/screenshot.jpg" alt="screenshot" border="0"></a>
-
-## 도움을 주신 분
-- 이 코드는 [윤대디](https://kin.naver.com/profile/index.nhn?u=LSPd4gnlrzbyuDw%2BNjdDHOdHYgzdiKCrOl62MVmMOOs%3D)님이 코드 제작에 도움을 주셨습니다.
